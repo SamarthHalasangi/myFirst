@@ -1,3 +1,5 @@
 Hey, I have added the Exceptional data.
 and now i am adding data by DJSam branch
 hope you can understand.
+
+Bug fixed.
